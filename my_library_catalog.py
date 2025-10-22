@@ -1,8 +1,7 @@
 import os
 
 #! lesson => use function in long prog as the main method in to built it
-#! try all the method and use a good flow and plan to create a good prog and efficace
-
+#! try all the method and use a good flow and plan to create a good prog 
 
 library_catalog = {}
 
@@ -93,4 +92,5 @@ while True:
         break
     
     else:
+
         print("wrong choice 🕷")
